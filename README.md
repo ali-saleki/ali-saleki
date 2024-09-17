@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Alireza Saleki</h1>
-<h3 align="center">A passionate Data Scientist from Iran</h3>
 
 - 🌱 I’m currently learning **Supervised Learning & Neural Networks**
 
